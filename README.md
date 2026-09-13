@@ -28,7 +28,7 @@ dsh plugin --profile web add github:andron-ua/dsh-token-usage-dashboard
 Restart DSH Web after installation. To pin a release:
 
 ```bash
-dsh plugin --profile web add github:andron-ua/dsh-token-usage-dashboard#v0.1.0
+dsh plugin --profile web add github:andron-ua/dsh-token-usage-dashboard#v0.1.1
 ```
 
 ## Local development
