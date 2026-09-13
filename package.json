@@ -1,6 +1,6 @@
 {
   "name": "dsh-token-usage-dashboard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Persistent DeepSeek Harness token usage aggregation by provider and model",
   "type": "module",
   "main": "lib/index.js",
